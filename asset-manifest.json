@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-autocomplete/static/css/main.cfaac44a.chunk.css",
+    "main.js": "/react-autocomplete/static/js/main.34d45a58.chunk.js",
+    "main.js.map": "/react-autocomplete/static/js/main.34d45a58.chunk.js.map",
+    "runtime-main.js": "/react-autocomplete/static/js/runtime-main.a06395e3.js",
+    "runtime-main.js.map": "/react-autocomplete/static/js/runtime-main.a06395e3.js.map",
+    "static/js/2.2837ffd9.chunk.js": "/react-autocomplete/static/js/2.2837ffd9.chunk.js",
+    "static/js/2.2837ffd9.chunk.js.map": "/react-autocomplete/static/js/2.2837ffd9.chunk.js.map",
+    "index.html": "/react-autocomplete/index.html",
+    "precache-manifest.5903a81ef7a9e9afb4f2afc638827a50.js": "/react-autocomplete/precache-manifest.5903a81ef7a9e9afb4f2afc638827a50.js",
+    "service-worker.js": "/react-autocomplete/service-worker.js",
+    "static/css/main.cfaac44a.chunk.css.map": "/react-autocomplete/static/css/main.cfaac44a.chunk.css.map",
+    "static/js/2.2837ffd9.chunk.js.LICENSE.txt": "/react-autocomplete/static/js/2.2837ffd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06395e3.js",
+    "static/js/2.2837ffd9.chunk.js",
+    "static/css/main.cfaac44a.chunk.css",
+    "static/js/main.34d45a58.chunk.js"
+  ]
+}
