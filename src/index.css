@@ -35,4 +35,26 @@ ul.suggestions {
   color: #111111;
   font-size: 20px;
   padding-left: 5px;
+  outline: none;
+}
+
+@media screen and (max-width: 480px) {
+
+  /* .App {
+    width: 70%;
+    margin: auto;
+  } */
+  .App input {
+    width: 60%;
+  }
+
+  ul {
+    width: 60%;
+    margin: auto;
+  }
+
+  .no-suggestions {
+    width: 60%;
+    margin: auto;
+  }
 }
